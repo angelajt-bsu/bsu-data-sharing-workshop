@@ -1,6 +1,6 @@
 ---
-title: Text Lesson
-teaching: null
+title: Feedback and contact details
+teaching: 10
 exercises: null
 duration: null
 summary: This template shows you how to use the various different special text
