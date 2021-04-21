@@ -1,7 +1,7 @@
 ---
 title: Introduction to Data Sharing
-teaching: 15
-exercises: 15
+teaching: 5
+exercises: 10
 duration: null
 summary: This section of the workshop will introduce you to the topic of data
   sharing as it refers to work we do in BSU.
