@@ -25,10 +25,9 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 ---
 ## Data Sharing
 
-> ## What do you understand by the term 'data sharing'?
+> ## 5 minutes What do you understand by the term 'data sharing'? 
+
 > When someone mentions data sharing to you- what do you immediately think of?
 > What else do you think could be shared?  
 {: .discussion}
 
-#### Types of data that can be shared
-1. Input data- ie the healthcare data that we use in 
