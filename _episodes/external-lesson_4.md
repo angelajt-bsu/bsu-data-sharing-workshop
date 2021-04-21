@@ -1,5 +1,5 @@
 ---
-title: External Lesson
+title: Practical - Let's upload some data
 teaching: null
 exercises: 20
 duration: null
