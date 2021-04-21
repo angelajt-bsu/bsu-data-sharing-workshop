@@ -1,5 +1,5 @@
 ---
-title: Data Sharing Checklist
+title: What's in it for me?
 teaching: null
 exercises: 35
 duration: null
