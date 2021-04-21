@@ -17,8 +17,8 @@ keypoints:
   - Sharing data has time and money costs - who is paying them?
 is-break: null
 ukrn_wb_rules: []
-day: ""
-order: 100000
+day: 1
+order: 325000
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
