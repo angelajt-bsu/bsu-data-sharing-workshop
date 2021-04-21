@@ -25,6 +25,6 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 ---
 ## Data Sharing
 
-> ## `{: .discussion}`
+> ## What do you think data sharing is?
 > What do you understand by the term 'data sharing'? 
 {: .discussion}
