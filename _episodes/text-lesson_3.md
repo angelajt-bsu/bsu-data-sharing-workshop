@@ -29,3 +29,6 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 > When someone mentions data sharing to you- what do you immediately think of?
 > What else do you think could be shared?  
 {: .discussion}
+
+#### Types of data that can be shared
+1. Input data- ie the healthcare data that we use in 
