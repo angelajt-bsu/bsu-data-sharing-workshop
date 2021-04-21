@@ -28,6 +28,7 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 > ## 5 minutes What do you understand by the term 'data sharing'? 
 
 > When someone mentions data sharing to you- what do you immediately think of?
+
 > What else do you think could be shared?  
 {: .discussion}
 
