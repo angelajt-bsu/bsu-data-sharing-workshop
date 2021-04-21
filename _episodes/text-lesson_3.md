@@ -1,12 +1,17 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Introduction to Data Sharing
+teaching: 15
+exercises: 15
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
-questions: null
-objectives: null
+summary: This section of the workshop will introduce you to the topic of data
+  sharing as it refers to work we do in BSU.
+questions:
+  - What do you understand by data sharing?
+  - Other than the healthcare data we use in our analysis, what other types of
+    data that we use or generate could we share?
+objectives:
+  - To ensure that all participants are aware of the scope of research what can
+    be shared
 keypoints: null
 is-break: null
 ukrn_wb_rules:
