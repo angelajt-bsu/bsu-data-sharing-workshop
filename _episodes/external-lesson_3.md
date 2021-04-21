@@ -19,8 +19,8 @@ keypoints:
     to understand and respect.
 is-break: null
 ukrn_wb_rules: []
-day: 1
-order: 400000
+day: ""
+order: 100000
 missingDependencies: []
 dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
