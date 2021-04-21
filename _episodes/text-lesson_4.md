@@ -1,10 +1,10 @@
 ---
-title: Text Lesson
-teaching: null
+title: What's in it for me?
+teaching: 30
 exercises: null
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: This section will take us through the benefits, drawbacks and
+  boundaries of data sharing
 questions: null
 objectives: null
 keypoints: null
