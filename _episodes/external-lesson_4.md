@@ -1,7 +1,7 @@
 ---
 title: Practical - Let's upload some data
 teaching: null
-exercises: 20
+exercises: 30
 duration: null
 summary: This template shows you how to use an external tutorial as a lesson.
 questions: null
